@@ -7,7 +7,6 @@ Este projeto simula o funcionamento de um semáforo de trânsito utilizando a pl
 1. 🟢 **Sinal Verde:** Aceso por 4 segundos.
 2. 🟡 **Sinal Amarelo:** Pisca 4 vezes como alerta de transição.
 3. 🔴 **Sinal Vermelho:** Aceso por 4 segundos.
-4. 🔴 **Sinal Vermelho:** Pisca 4 vezes antes de liberar o fluxo novamente.
 
 ---
 
